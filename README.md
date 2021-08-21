@@ -2,7 +2,7 @@
 
 <br>
 
-A Python Notebook to explore classic Machine Learning methods - classification, clustering, PCA - for Face Recognition.
+A Python Notebook to explore classic Machine Learning methods - **classification**, **clustering**, **PCA** - for Face Recognition.
 
 <br>
 
